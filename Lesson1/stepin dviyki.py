@@ -1,0 +1,3 @@
+a = int(input("stepin chisla 2 - "))
+b = 2**a
+print(b)
